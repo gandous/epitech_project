@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 074a7e6c4889c4701489a500a002bf8fc01593c3 gaetan <gaetan@localhost.localdomain> 1546862463 +0100	clone: from git@git.epitech.eu:/gaetan.depin@epitech.eu/MUL_my_runner_2018
+074a7e6c4889c4701489a500a002bf8fc01593c3 827e7b253edd01d364f695b95778602e588f0db1 gaetan <gaetan@localhost.localdomain> 1547558448 +0100	commit: remove useless sprite
+827e7b253edd01d364f695b95778602e588f0db1 73b3ac041e9e89ce1f0a4a5c4626496c0adbb49a gaetan <gaetan@localhost.localdomain> 1547558485 +0100	commit: push complete game functionnal
+73b3ac041e9e89ce1f0a4a5c4626496c0adbb49a f55baed3e430082d8b68617935cd1d8ac94283a0 gaetan <gaetan@localhost.localdomain> 1547560057 +0100	commit: div perso_jump func in manage_perso.c
+f55baed3e430082d8b68617935cd1d8ac94283a0 a03db061b70a6f5bb59bea09d77c3cbe2b857e65 gaetan <gaetan@localhost.localdomain> 1547562441 +0100	commit: remove crash when no argument is given
+a03db061b70a6f5bb59bea09d77c3cbe2b857e65 e9329fb80bf30b31e33c629cadd4af6f0e92d251 gaetan <gaetan@localhost.localdomain> 1547641243 +0100	commit: add print.c file
+e9329fb80bf30b31e33c629cadd4af6f0e92d251 c371b5049d04b93a8a9081c9622bdb7251697e30 gaetan <gaetan@localhost.localdomain> 1547720176 +0100	commit: add a map
+c371b5049d04b93a8a9081c9622bdb7251697e30 944f2e6ffc5ba7fb5ca43e0bc0b939df7cb9159c gaetan <gaetan@localhost.localdomain> 1547738175 +0100	commit: add music and sfrenderwindow
+944f2e6ffc5ba7fb5ca43e0bc0b939df7cb9159c a0482d884036e84875824edf6f8e7120f153d749 gaetan <gaetan@localhost.localdomain> 1547738378 +0100	commit: add ullscreen
+a0482d884036e84875824edf6f8e7120f153d749 a5fb805266da85f62dd60f803ab7e1090d94cc0b gaetan <gaetan@localhost.localdomain> 1547738487 +0100	commit: remove an useless char
+a5fb805266da85f62dd60f803ab7e1090d94cc0b c46f2802d1e8cf402d91675b392271c4134f2344 gaetan <gaetan@localhost.localdomain> 1547739066 +0100	commit: add create_sound
+c46f2802d1e8cf402d91675b392271c4134f2344 6c3416f747badb4382929ba436ad906dc93e8bdb gaetan <gaetan@localhost.localdomain> 1547814855 +0100	commit: remove bad file
+6c3416f747badb4382929ba436ad906dc93e8bdb 1bcb8b137421919cff9a2d33015a1959e98e2295 gaetan <gaetan@localhost.localdomain> 1547815036 +0100	commit: update .h
+1bcb8b137421919cff9a2d33015a1959e98e2295 cb966712047db7f3c714e83b59d214b10638ac27 gaetan <gaetan@localhost.localdomain> 1547815220 +0100	commit: add death sound
+cb966712047db7f3c714e83b59d214b10638ac27 f6ff346f42b4f95a446931e8255975c3bacdde65 gaetan <gaetan@localhost.localdomain> 1547824614 +0100	commit: add .legend and the map can contains a p for player pos
+f6ff346f42b4f95a446931e8255975c3bacdde65 5f9a283bf9c64b5a68987ad6b32c3871cc36ae4b gaetan <gaetan@localhost.localdomain> 1547836843 +0100	commit: add the possibiluty to have a hole in the map
+5f9a283bf9c64b5a68987ad6b32c3871cc36ae4b e4550ce2e347e4330ea57b81db1a277a598e2a9e gaetan <gaetan@localhost.localdomain> 1547998176 +0100	commit: add end game animation
+e4550ce2e347e4330ea57b81db1a277a598e2a9e 57c60a0fa677ae685322044fc8f2836b64453bda gaetan <gaetan@localhost.localdomain> 1547999922 +0100	commit: big norme correction
+57c60a0fa677ae685322044fc8f2836b64453bda d563a04a92fcc830df92e4ba66548730d65cda91 gaetan <gaetan@localhost.localdomain> 1548002474 +0100	commit: add more map
+d563a04a92fcc830df92e4ba66548730d65cda91 bec229161a34daefc0e772ee8e6d6a650b77c819 gaetan <gaetan@localhost.localdomain> 1549363289 +0100	commit: remove segfault when launching game

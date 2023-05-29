@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 ff7bff6c80c77ab76a3fef1c79d5b8fe5a2f0c21 Gaëtan <gaetan@localhost.localdomain> 1538559370 +0200	commit (initial): task 1 2 3
+ff7bff6c80c77ab76a3fef1c79d5b8fe5a2f0c21 7bfe9c0d09c31f96e03fb26e717bf2591efb5aea Gaëtan <gaetan@localhost.localdomain> 1538559459 +0200	commit: sup fichier inutile
+7bfe9c0d09c31f96e03fb26e717bf2591efb5aea cf6986a074457357af232de330ee3cf7ef159572 Gaëtan <gaetan@localhost.localdomain> 1538560885 +0200	commit: add task 4
+cf6986a074457357af232de330ee3cf7ef159572 bbd401931658a943b6c28a72403cb8309e422a33 Gaëtan <gaetan@localhost.localdomain> 1538565655 +0200	commit: corriger
+bbd401931658a943b6c28a72403cb8309e422a33 d63a3f870a0b17f9982fd5f476f8df40402fd879 Gaëtan <gaetan@localhost.localdomain> 1538570432 +0200	commit: correction task 4
+d63a3f870a0b17f9982fd5f476f8df40402fd879 0f2965854254dd3c30aa81a7ec51d64fc72bb48f Gaëtan <gaetan@localhost.localdomain> 1538570576 +0200	commit: add task 5
+0f2965854254dd3c30aa81a7ec51d64fc72bb48f 3d5cb03707c013773aab6781edb893a3f4f87c2f Gaëtan <gaetan@localhost.localdomain> 1538577254 +0200	commit: supprimer un a.out
+3d5cb03707c013773aab6781edb893a3f4f87c2f 6f8f6cfcba7b42a26c963ff9e8bfc34859bca73c Gaëtan <gaetan@localhost.localdomain> 1538582408 +0200	commit: add task 6
+6f8f6cfcba7b42a26c963ff9e8bfc34859bca73c 0384d31dbe7323300247dd9c4039d04674e508d3 Gaëtan <gaetan@localhost.localdomain> 1538582637 +0200	commit: correction task 6
+0384d31dbe7323300247dd9c4039d04674e508d3 fcfb5e7880421edfb0463ba89b99e063b1dc577a Gaëtan <gaetan@localhost.localdomain> 1538582747 +0200	commit: correction 6
+fcfb5e7880421edfb0463ba89b99e063b1dc577a a47e81d7cb0d3deadcaaad410c5821e8f780628e Gaëtan <gaetan@localhost.localdomain> 1538588487 +0200	commit: fix task 5
+a47e81d7cb0d3deadcaaad410c5821e8f780628e c91dd0ed943622f4e8fff83a21e5982daaf974fc Gaëtan <gaetan@localhost.localdomain> 1538600950 +0200	commit: add 7
+c91dd0ed943622f4e8fff83a21e5982daaf974fc d6e9ed99e4db2d195e906660afdd64bd2e6834b4 Gaëtan <gaetan@localhost.localdomain> 1538602328 +0200	commit: del main
+d6e9ed99e4db2d195e906660afdd64bd2e6834b4 4ab73caa608430295d1e9b2150493b8ab9b44f6a Gaëtan <gaetan@localhost.localdomain> 1538636961 +0200	commit: correction 7
+4ab73caa608430295d1e9b2150493b8ab9b44f6a 22f473ebcfc767b9429778708857c47ba1d8464b Gaëtan <gaetan@localhost.localdomain> 1538638074 +0200	commit: task 8
+22f473ebcfc767b9429778708857c47ba1d8464b ff9b2f91a71fa66e95c08bd149a19eed36c65fa3 Gaëtan <gaetan@localhost.localdomain> 1538638957 +0200	commit: correction task 7
+ff9b2f91a71fa66e95c08bd149a19eed36c65fa3 0e9235e828d0df7c146cf76d40c0f7ca5f8f3790 Gaëtan <gaetan@localhost.localdomain> 1538649448 +0200	commit: correction task 7
+0e9235e828d0df7c146cf76d40c0f7ca5f8f3790 26553756b86d74c99e9dec8f3d163b78ff5b0331 Gaëtan <gaetan@localhost.localdomain> 1538664258 +0200	commit: suppression mauvais fichier

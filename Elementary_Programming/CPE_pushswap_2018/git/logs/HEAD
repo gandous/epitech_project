@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 a48a415f18da290480e4432faf8d2d68cadc7706 Gaëtan <gaetan@localhost.localdomain> 1544958517 +0100	clone: from git@git.epitech.eu:/gaetan.depin@epitech.eu/CPE_pushswap_2018
+a48a415f18da290480e4432faf8d2d68cadc7706 f7d247e946ac99c3d295d86915a2bb0d89413914 Gaëtan <gaetan@localhost.localdomain> 1544959977 +0100	commit: add print.c file
+f7d247e946ac99c3d295d86915a2bb0d89413914 96c25fe3b3f7ed57b25c8244047c1a205163c222 Gaëtan <gaetan@localhost.localdomain> 1544960292 +0100	commit: add \n at the end of the buff in print.c

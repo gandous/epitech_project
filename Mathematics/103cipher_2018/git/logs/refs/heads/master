@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 5b12db42c862eaa89356f574f2039f37dc21c37a Gaëtan <gaetan@localhost.localdomain> 1544537501 +0100	clone: from git@git.epitech.eu:/axel.virot@epitech.eu/103cipher_2018
+5b12db42c862eaa89356f574f2039f37dc21c37a c947aebbc1288d087ecdba5547fd4b177699236c Gaëtan <gaetan@localhost.localdomain> 1544538583 +0100	pull: Fast-forward
+c947aebbc1288d087ecdba5547fd4b177699236c 24865a5d50772b212e820cd6d3ecb5535929457f Gaëtan <gaetan@localhost.localdomain> 1544539249 +0100	commit: edit print.c to remove space at the end of the line

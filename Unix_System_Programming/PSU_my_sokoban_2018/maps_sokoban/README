@@ -1,0 +1,49 @@
+You might sigv on the following maps format:
+
+    - A map without '\n' at the very end, for example:
+        
+        #####$
+        #PXO#$
+        #####
+        
+    - A map with different line sizes, for example:
+
+        #$
+        ##$
+        #O#$
+        #X #$
+        #  P#$
+        ######$
+
+    - A basic free map, for example:
+
+        #   #$
+         PXO $
+        #   #$
+
+    - A free map with different line sizes, for example:
+
+        #$
+          $
+        OX $
+           P$
+        #   #$
+
+
+Those are the most popular crashes reason,
+But those other possibly sigv your program too:
+
+    - A map without 'P'
+    - A map with two following '\n' or more
+    - A map with only one line/column
+    - A free map like the following one: PXO$
+    - When you want to push a box out of the bounds
+    - An empty map???
+    - A map with only a '\n' like the following one: $
+    - A map with a final '\n', depends on how did you managed your map
+
+
+
+
+    Cheers,
+    Eliot LE GALL.

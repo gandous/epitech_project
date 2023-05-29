@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 fa2ea1b3b3fd3850dd0221925d27afe0dfb954c9 Gaëtan <gaetan@localhost.localdomain> 1539077508 +0200	commit (initial): add task 1
+fa2ea1b3b3fd3850dd0221925d27afe0dfb954c9 62cd8b281e565ad0d14b6a5672d398696a4f921c Gaëtan <gaetan@localhost.localdomain> 1539090082 +0200	commit: add task 2
+62cd8b281e565ad0d14b6a5672d398696a4f921c c0d0c85ac577d43c4aebd231f7e4b4f7c68f45d1 Gaëtan <gaetan@localhost.localdomain> 1539091808 +0200	commit: rm .o
+c0d0c85ac577d43c4aebd231f7e4b4f7c68f45d1 f4367ff9acd9815340be764edec647bd153eca2a Gaëtan <gaetan@localhost.localdomain> 1539095360 +0200	commit: correction task 2
+f4367ff9acd9815340be764edec647bd153eca2a 0095894108898354a860e8b7f0ad420fdc9bc973 Gaëtan <gaetan@localhost.localdomain> 1539096409 +0200	commit: add task 3
+0095894108898354a860e8b7f0ad420fdc9bc973 c6ba8b69a1d27c3a8063e83044036d1b6507730f Gaëtan <gaetan@localhost.localdomain> 1539098472 +0200	commit: add task 4
+c6ba8b69a1d27c3a8063e83044036d1b6507730f 49c3557aa6d5ee55090d580cf95885f77e45ef14 Gaëtan <gaetan@localhost.localdomain> 1539098715 +0200	commit: correction task 4
+49c3557aa6d5ee55090d580cf95885f77e45ef14 3232ffdc182a495210979f6a56eca0e4ac713701 Gaëtan <gaetan@localhost.localdomain> 1539100884 +0200	commit: add task 5
+3232ffdc182a495210979f6a56eca0e4ac713701 36c49383aa1835ac1bdd0a79d501dfc8e87acafa Gaëtan <gaetan@localhost.localdomain> 1539101789 +0200	commit: remove .c
+36c49383aa1835ac1bdd0a79d501dfc8e87acafa 46c332bc5e4ca047149857a06a9a2da630fa2a05 Gaëtan <gaetan@localhost.localdomain> 1539152546 +0200	commit: correction task 2 3
+46c332bc5e4ca047149857a06a9a2da630fa2a05 a8e8d33f3466c178f1aa0325204dba4c372d5a7f Gaëtan <gaetan@localhost.localdomain> 1539152913 +0200	commit: sup ~ file
+a8e8d33f3466c178f1aa0325204dba4c372d5a7f 5b13fdf7a46f6e40125aefaf412a6186d25d2efa Gaëtan <gaetan@localhost.localdomain> 1539155666 +0200	commit: add task 6

@@ -1,0 +1,2 @@
+edit file:
+-main.c edit main loop to remove crash when prog is call with no argument

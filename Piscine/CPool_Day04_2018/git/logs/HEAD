@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 51fe9b974643c1844617463b575325939ebb8ae2 Gaëtan <gaetan@localhost.localdomain> 1538643373 +0200	commit (initial): task 1 git add my_swap.c git add my_swap.c
+51fe9b974643c1844617463b575325939ebb8ae2 f2befd40ae3eef2aa35f7aa44a6511f220bf0fe7 Gaëtan <gaetan@localhost.localdomain> 1538655548 +0200	commit: add task 2
+f2befd40ae3eef2aa35f7aa44a6511f220bf0fe7 92ddb98a0b903e868a2e00116045e0c50750d1e4 Gaëtan <gaetan@localhost.localdomain> 1538658582 +0200	commit: add task 3
+92ddb98a0b903e868a2e00116045e0c50750d1e4 98cf844c1863ce719ff16de7a7ba983c9758fc43 Gaëtan <gaetan@localhost.localdomain> 1538666433 +0200	commit: add task 4
+98cf844c1863ce719ff16de7a7ba983c9758fc43 5dbca1923dd72f6e811f84c3456bb755ead18952 Gaëtan <gaetan@localhost.localdomain> 1538672003 +0200	commit: correction task4
+5dbca1923dd72f6e811f84c3456bb755ead18952 44da3e533335407ecc3e6805380dec7928a11d62 Gaëtan <gaetan@localhost.localdomain> 1538739033 +0200	commit: add task 5
+44da3e533335407ecc3e6805380dec7928a11d62 16126efd6c17821423ed2f1e9431ed35be1e6483 Gaëtan <gaetan@localhost.localdomain> 1538742739 +0200	commit: correction task4
+16126efd6c17821423ed2f1e9431ed35be1e6483 2c6da70d77cd89e751a939c0db789d4df802ea0b Gaëtan <gaetan@localhost.localdomain> 1538752171 +0200	commit: task 5

@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 1ed9c512dc298d86bcd199c1dd63f4121481d6ef Gaëtan <gaetan@localhost.localdomain> 1543324463 +0100	clone: from git@git.epitech.eu:/gaetan.depin@epitech.eu/102architect_2018
+1ed9c512dc298d86bcd199c1dd63f4121481d6ef 85398b0078a49ef937f6c2dc64abb630f922b9ff Gaëtan <gaetan@localhost.localdomain> 1543324682 +0100	commit: edit files:
+85398b0078a49ef937f6c2dc64abb630f922b9ff e8522517a4a33f451068f8aa5ce2f2e6c9d0a414 Gaëtan <gaetan@localhost.localdomain> 1543325057 +0100	commit: edit prototype in architect.h
+e8522517a4a33f451068f8aa5ce2f2e6c9d0a414 89951310ce388a42288f1f2bb6e8d7f60f624325 Gaëtan <gaetan@localhost.localdomain> 1543330524 +0100	commit: edit main.c
+89951310ce388a42288f1f2bb6e8d7f60f624325 ba82fdd4ea29b8dfdcf3efca3e973b3ac65e8a4c Gaëtan <gaetan@localhost.localdomain> 1543330940 +0100	commit: add file main_calc.c
+ba82fdd4ea29b8dfdcf3efca3e973b3ac65e8a4c 2afc19f4f4177b328817a83d33596ea55d095636 Gaëtan <gaetan@localhost.localdomain> 1543331395 +0100	commit: add file:
+2afc19f4f4177b328817a83d33596ea55d095636 9afea8a97fc0da1089bc0b89bcfbc0e3d1512fb8 Gaëtan <gaetan@localhost.localdomain> 1543333985 +0100	commit: main.cadd function which free matrix
+9afea8a97fc0da1089bc0b89bcfbc0e3d1512fb8 3e9389e0e2ef7bd47898d6e697e6d123d13d0323 Gaëtan <gaetan@localhost.localdomain> 1543334116 +0100	commit: edit file:
+3e9389e0e2ef7bd47898d6e697e6d123d13d0323 c2ea8b7fcf031b61a4ce8bae554f4e33276e1f1e Gaëtan <gaetan@localhost.localdomain> 1543334800 +0100	pull: Fast-forward
+c2ea8b7fcf031b61a4ce8bae554f4e33276e1f1e 45de00d57e83d64bef74eb042e5c6d44ac3f1243 Gaëtan <gaetan@localhost.localdomain> 1543334850 +0100	commit: remove exe
+45de00d57e83d64bef74eb042e5c6d44ac3f1243 dbcb0b434ba48352f92a5c629f701f14e352b835 Gaëtan <gaetan@localhost.localdomain> 1543335071 +0100	pull: Fast-forward
+dbcb0b434ba48352f92a5c629f701f14e352b835 a5f5c18ba489750e400bd2673841b4ad5f4e1316 Gaëtan <gaetan@localhost.localdomain> 1543337580 +0100	commit: edit file:
+a5f5c18ba489750e400bd2673841b4ad5f4e1316 fc7ade553fc7bdbe948c36144e267ac20a7416b0 Gaëtan <gaetan@localhost.localdomain> 1543338994 +0100	commit: edit file:
+fc7ade553fc7bdbe948c36144e267ac20a7416b0 404c71d4db816167619946aabdeb86a628c928c6 Gaëtan <gaetan@localhost.localdomain> 1543339443 +0100	commit: edit file :
+404c71d4db816167619946aabdeb86a628c928c6 9b6028c047769e46497528ceeec07e2ca66d4f69 Gaëtan <gaetan@localhost.localdomain> 1543340046 +0100	pull: Fast-forward
+9b6028c047769e46497528ceeec07e2ca66d4f69 837741a820b244fc2e0ec4f9c02e44029d67903e Gaëtan <gaetan@localhost.localdomain> 1543340358 +0100	commit: edit file:
+837741a820b244fc2e0ec4f9c02e44029d67903e d828a2f209ce417456eb99884159712f1ca6a8ba Gaëtan <gaetan@localhost.localdomain> 1543340862 +0100	commit: edit file:
+d828a2f209ce417456eb99884159712f1ca6a8ba eaaa3d89486af117c64afcc503679fecbe0d7ef2 Gaëtan <gaetan@localhost.localdomain> 1543342012 +0100	pull: Fast-forward
+eaaa3d89486af117c64afcc503679fecbe0d7ef2 be0337a056e6e0a095c20d457238a437954ec94f Gaëtan <gaetan@localhost.localdomain> 1543344365 +0100	pull: Fast-forward
+be0337a056e6e0a095c20d457238a437954ec94f ebd1864099ce2c513ec7aa61d40b04223386f94a Gaëtan <gaetan@localhost.localdomain> 1543347129 +0100	commit: edit files:
+ebd1864099ce2c513ec7aa61d40b04223386f94a fa716f97c24f3814e4db3fc3dfce1b42b85bd716 Gaëtan <gaetan@localhost.localdomain> 1543347290 +0100	commit: remoce *.c 102architect
+fa716f97c24f3814e4db3fc3dfce1b42b85bd716 8f80aa276e21963cc56a623b66b31e263bca6969 Gaëtan <gaetan@localhost.localdomain> 1543411291 +0100	commit: edit main.c to correct bug when matrix = NULL
+8f80aa276e21963cc56a623b66b31e263bca6969 2d1e56bfe69c047bd0e04cee4cd08a0f19ea1b9c Gaëtan <gaetan@localhost.localdomain> 1543411313 +0100	pull: Merge made by the 'recursive' strategy.
+2d1e56bfe69c047bd0e04cee4cd08a0f19ea1b9c a6973c798ca7432f5dce861f19e8c69c4dbfe0db Gaëtan <gaetan@localhost.localdomain> 1543420324 +0100	pull: Fast-forward
+a6973c798ca7432f5dce861f19e8c69c4dbfe0db de593b0f2058f3db2e163ba9d23e23a4c80d3eb8 Gaëtan <gaetan@localhost.localdomain> 1543429047 +0100	pull: Fast-forward
+de593b0f2058f3db2e163ba9d23e23a4c80d3eb8 a68ecf8ec151f4ab0ec4329e5ff76adc58022e6d Gaëtan <gaetan@localhost.localdomain> 1543430588 +0100	commit: add file error.c to start of error gestion
+a68ecf8ec151f4ab0ec4329e5ff76adc58022e6d 33be8c7fd948e460efdd925fb64a14ae425fe196 Gaëtan <gaetan@localhost.localdomain> 1543492818 +0100	pull: Fast-forward
+33be8c7fd948e460efdd925fb64a14ae425fe196 12738055c9d30ea5d431efdf119f5095ba910682 Gaëtan <gaetan@localhost.localdomain> 1543494449 +0100	commit: edit error function to remove crash when they are too fe arguments

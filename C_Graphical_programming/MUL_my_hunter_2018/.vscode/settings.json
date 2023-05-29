@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "my_hunter.h": "c",
+        "clock.h": "c"
+    }
+}

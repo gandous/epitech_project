@@ -1,0 +1,4 @@
+remove segfault when launching game
+edit file:
+-manage_map.c (edit func create_elem func to remove bloc creation at perso pos)
+-map_texture.c (edit func get_texture the func was returning un uninitialised value if char given is egal to p)

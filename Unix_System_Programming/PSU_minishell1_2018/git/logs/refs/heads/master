@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 edede6f69ed93fcb6bc9058eac5c038e3ff2d71d gaetan <gaetan@localhost.localdomain> 1548178825 +0100	commit (initial): add files:
+edede6f69ed93fcb6bc9058eac5c038e3ff2d71d a6e080e9ffc85ca7d6e4e34f48ab432eb80cff9f gaetan <gaetan@localhost.localdomain> 1548178859 +0100	commit: remove file :
+a6e080e9ffc85ca7d6e4e34f48ab432eb80cff9f 52cf638bc0d7291f20666927c0ab3287c56e48ac gaetan <gaetan@localhost.localdomain> 1548265702 +0100	commit: edit file:
+52cf638bc0d7291f20666927c0ab3287c56e48ac e8aba251b4f24cb4990f8721226ef06ae14facaf gaetan <gaetan@localhost.localdomain> 1548266934 +0100	commit: add start of unsetenv
+e8aba251b4f24cb4990f8721226ef06ae14facaf d2cc9ac50598fad337d1aff58704c867b558207d gaetan <gaetan@localhost.localdomain> 1548267785 +0100	commit: edit file:
+d2cc9ac50598fad337d1aff58704c867b558207d 04b85383946ff00d2439bb36c6da9f9852111fff gaetan <gaetan@localhost.localdomain> 1548329393 +0100	commit: add unset and and remove memory leak
+04b85383946ff00d2439bb36c6da9f9852111fff 72fe392d00852b7512aeec501ea411915b8e33aa gaetan <gaetan@localhost.localdomain> 1548331910 +0100	commit: edit str compare to work with '*' and add make_exe.c file
+72fe392d00852b7512aeec501ea411915b8e33aa fa1c1aaa2712a47408dc6137c3194b1645477936 gaetan <gaetan@localhost.localdomain> 1548681765 +0100	commit: add exec part work with no arguments
+fa1c1aaa2712a47408dc6137c3194b1645477936 e2684fdf3503d618523332b53f2b086c7c51531b gaetan <gaetan@localhost.localdomain> 1548690873 +0100	commit: file reoganisation
+e2684fdf3503d618523332b53f2b086c7c51531b d1483dab309f4f8a6cead97d285e365f42eb3505 gaetan <gaetan@localhost.localdomain> 1548692528 +0100	commit: add exit functionnal
+d1483dab309f4f8a6cead97d285e365f42eb3505 659933e7ccff9a3f7c2e40c342253095e8fca12d gaetan <gaetan@localhost.localdomain> 1548706925 +0100	commit: add cd functionnal but with memory leak
+659933e7ccff9a3f7c2e40c342253095e8fca12d f1e74cc54b5c5143d1615e47579b47085c1ac6a4 gaetan <gaetan@localhost.localdomain> 1548769206 +0100	commit: add prog name to argv
+f1e74cc54b5c5143d1615e47579b47085c1ac6a4 4cb6017fd6571e22534c5aade873be39c75b9a11 gaetan <gaetan@localhost.localdomain> 1548861814 +0100	commit: add cd -
+4cb6017fd6571e22534c5aade873be39c75b9a11 b419a08771e16d590cbf8fe7767299c74a1e8d15 gaetan <gaetan@localhost.localdomain> 1548885339 +0100	commit: add file:
+b419a08771e16d590cbf8fe7767299c74a1e8d15 68fd5a779789edc5609877776a62db54c8c0a461 gaetan <gaetan@localhost.localdomain> 1548928572 +0100	commit: edit files:
+68fd5a779789edc5609877776a62db54c8c0a461 2a9ce837a65c7dc717bec4353cacd511db7578d6 gaetan <gaetan@localhost.localdomain> 1548936497 +0100	commit: remove get_next_line lib
+2a9ce837a65c7dc717bec4353cacd511db7578d6 9f0c177427abbe62cbf2455ffbdcfb9537d3acfd gaetan <gaetan@localhost.localdomain> 1548941550 +0100	commit: edit :
+9f0c177427abbe62cbf2455ffbdcfb9537d3acfd 63664dc8d17a6c30bfcba21ff3bf84889e453757 gaetan <gaetan@localhost.localdomain> 1548945982 +0100	commit: edit minishell.c add ctrl+c gestion
+63664dc8d17a6c30bfcba21ff3bf84889e453757 682f84c99bc403a27944e83c59efc1fdf0d6394c gaetan <gaetan@localhost.localdomain> 1549018069 +0100	commit: edit minishell.c to remove exit print when getline is egal to -1
+682f84c99bc403a27944e83c59efc1fdf0d6394c 75ed972ced28b8e006f38d4a6aba1d697fed60a5 gaetan <gaetan@localhost.localdomain> 1549031398 +0100	commit: remove a bad indentation
+75ed972ced28b8e006f38d4a6aba1d697fed60a5 164f9d400107b4fdc2deeb2b1d839a265e7ea383 gaetan <gaetan@localhost.localdomain> 1549060232 +0100	commit: edit files:
+164f9d400107b4fdc2deeb2b1d839a265e7ea383 569e9de4d5156464a42828af7be576a3ced3dfdb gaetan <gaetan@localhost.localdomain> 1549061439 +0100	commit: edit file:

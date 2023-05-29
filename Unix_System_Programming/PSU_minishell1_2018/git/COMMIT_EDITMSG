@@ -1,0 +1,3 @@
+edit file:
+-get_first_word.c (remove undesire tab in the char return)
+-my_str_to_word_array.c (remove empty row when the arg contains space or tab at the end)

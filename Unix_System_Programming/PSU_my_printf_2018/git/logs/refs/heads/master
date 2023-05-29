@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 31518c8cd8224727a1cf2d52717e44a0c0472117 Gaëtan <gaetan@localhost.localdomain> 1541694423 +0100	clone: from git@git.epitech.eu:/gaetan.depin@epitech.eu/PSU_my_printf_2018
+31518c8cd8224727a1cf2d52717e44a0c0472117 af937a90f7b7ee029a06f7a0e86c3a6db8c73430 Gaëtan <gaetan@localhost.localdomain> 1542011635 +0100	commit: add file :
+af937a90f7b7ee029a06f7a0e86c3a6db8c73430 c003ab30beb157c62e5bd1bf1d0adfcf959e73b4 Gaëtan <gaetan@localhost.localdomain> 1542022803 +0100	commit: add flag :
+c003ab30beb157c62e5bd1bf1d0adfcf959e73b4 9e1dfe441e4b1560daa64bfb29b45df0dd6255fc Gaëtan <gaetan@localhost.localdomain> 1542110827 +0100	commit: edit file:
+9e1dfe441e4b1560daa64bfb29b45df0dd6255fc 742d85ebe44b56446053ff5d1e926fc5b6863359 Gaëtan <gaetan@localhost.localdomain> 1542129159 +0100	commit: edit file: my_put_nbr 1 not display with 100
+742d85ebe44b56446053ff5d1e926fc5b6863359 27cf00ce5f2068330fad715745f2f8b97a81b3ba Gaëtan <gaetan@localhost.localdomain> 1542184779 +0100	commit: edit file:
+27cf00ce5f2068330fad715745f2f8b97a81b3ba 820e9d9233e55d3b27bf05f24d12bc2afee34ad4 Gaëtan <gaetan@localhost.localdomain> 1542218418 +0100	commit: edit my_printf add gestion of unreconize flag
+820e9d9233e55d3b27bf05f24d12bc2afee34ad4 6738cc602e7701ea6025d0b406060a3cde384738 Gaëtan <gaetan@localhost.localdomain> 1542272283 +0100	commit: edit file my_printf
+6738cc602e7701ea6025d0b406060a3cde384738 036d97d2d9fbfdbe98403f0485d0690678efe86c Gaëtan <gaetan@localhost.localdomain> 1542471703 +0100	commit: clear repository
+036d97d2d9fbfdbe98403f0485d0690678efe86c e9ce3327f6c393a81a88daf3c0e74fa31ab2b30a Gaëtan <gaetan@localhost.localdomain> 1542471734 +0100	commit: remove makefile
+e9ce3327f6c393a81a88daf3c0e74fa31ab2b30a e9ebc2afb862e1c80e76bc7c5e6d02df1f9805c2 Gaëtan <gaetan@localhost.localdomain> 1542471819 +0100	commit: add all good file
+e9ebc2afb862e1c80e76bc7c5e6d02df1f9805c2 c18108f56074d5d21f09ebaaa732252473cbfa10 Gaëtan <gaetan@localhost.localdomain> 1542490564 +0100	commit: remove comment in my_printf.c

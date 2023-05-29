@@ -1,0 +1,11 @@
+.vscode
+mysh
+vgcore.*
+*.o
+a.out
+boucle_inf
+seg
+test_file
+test_my
+disp_arg
+disp_arg.c
